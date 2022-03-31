@@ -1,6 +1,6 @@
 hi
  this 
      is 
-	    practice
-		  file
-		     devops
+	 practice
+		 file
+		      devops
